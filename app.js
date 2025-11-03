@@ -56,7 +56,7 @@ navbox.classList.add("text-center","sm:flex","sm:justify-between");
           
 navbox.classList.add("bg-slate-950","py-5","fixed","w-full","px-10" ); 
 nav_name.classList.add("text-yellow-500","text-3xl")
-navRight.classList.add("text-2xl","flex","text-gray-50","gap-5" );
+navRight.classList.add("sm:text-2xl","flex","text-gray-50","sm:gap-5","text-xl","gap-3");
      
 
 
